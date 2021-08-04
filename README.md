@@ -1,9 +1,10 @@
-### Hi there 👋 I am Alexandre Florentino.
+## Hi there 👋 I am Alexandre Florentino.
  <div>
   <a href="https://github.com/kanemaki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanemaki&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanemaki&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+ 
  <div style="display: inline_block"><br>  
   <img align="center" alt="ALEX-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="ALEX-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
@@ -46,7 +47,7 @@
   <img align="center" alt="ALEX-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="ALEX-WebPack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
   <img align="center" alt="ALEX-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-</div>
+ </div>
 
 ##
  
@@ -58,27 +59,5 @@
     <a href="tel:+353830248099" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
  
-##
+![Snake animation](https://github.com/kanemaki/kanemaki/blob/output/github-contribution-grid-snake.svg)
  
-<div>
- <img align="center" alt="Alex-Code" src="importa.gif">
-</div>
- 
-##
-
- ![Snake animation](https://github.com/kanemaki/kanemaki/blob/output/github-contribution-grid-snake.svg)
- 
-<!--
-**kanemaki/kanemaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
