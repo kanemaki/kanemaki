@@ -62,7 +62,12 @@
  
 <div>
  <img align="center" alt="Alex-Code" src="importa.gif">
-</div> 
+</div>
+ 
+##
+
+ ![Snake animation](https://github.com/kanemaki/kanemaki/blob/output/github-contribution-grid-snake.svg)
+ 
 <!--
 **kanemaki/kanemaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
