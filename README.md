@@ -1,4 +1,46 @@
 ## Hi there 👋 I am Alexandre Florentino.
+ 
+ <div>
+Start in the world of development with the ADVPL language and implementation of ERP systems, especially Totvs Protheus, architecture of Totvs solutions: Server and Client, Ctree, Dbaccess, License Server, TSS.
+
+I performed several developments serving the retail, industry, logistics and public sector segments.
+
+Last years working exclusively with Web development, mobile and back-end services.
+
+Proficient on C, C#, Java, HTML, CSS, JavaScript, Linux, SQL, GIT, Spring Boot and, currently, expanding my knowledge learning IONIC, ANGULAR, TYPESCRIPT, OPENCV, IOT, TDD, Clean Architecture, Design Patterns, SOLID and Docker.
+
+In my spare time I created some projects using: NodeMCU (ESP8266), RaspBerry Pi, Arduino, Amazon AWS. Google App Engine, Microsoft Azure, LibGDX and OPENCV.
+
+Current interests : nodeMCU (ESP8266), arduino, raspberry Pi, IOT, OPENCV, Smart Cities, Android+Mobile development, Kotlin ecosystem, LibGDX, IONIC 5, Python, Serverless Applications, Pentesting and more.
+
+Passionate about technology conventions, lectures and Meetups.
+As a way to be close to communities I participate in events annually to seek new experiences and contacts.
+
+List of events I attended.:
+
+WO MAKERS CODE - 2016
+Google I / O Extended - 2016
+THE DEVELOPER'S CONFERENCE - 2016 - ANDROID TRAIL
+GDG.SP ANDROID MEETUP 4 YEARS - 2016
+ROADSEC - The largest hacking, security and technology event on the continent - 2016
+
+ROADSEC - The largest hacking, security and technology event on the continent - 2017
+IMPACTA MOBILE DAY - 2017
+ANDROID DEV CONFERENCE iMASTERS - 2017
+THE DEVELOPER'S CONFERENCE - 2017 - MOBILE TRAIL
+THE DEVELOPER'S CONFERENCE - 2017 - ANDROID TRAIL
+
+ROADSEC - The continent's largest hacking, security and technology event - 2018
+SAP FORUM BRASIL - 2018
+THE DEVELOPER'S CONFERENCE - 2018 - ARDUINE TRAIL, MAKERS AND 3D PRINTING
+
+ROADSEC - The continent's largest hacking, security and technology event - 2019
+THE DEVELOPER'S CONFERENCE - 2019 - SMART CITIES TRAIL
+THE DEVELOPER'S CONFERENCE - 2019 - ANDROID TRAIL
+TOTVS UNIVERSE - 2019 
+</div>
+ 
+ 
  <div>
   <a href="https://github.com/kanemaki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanemaki&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
