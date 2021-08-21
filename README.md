@@ -18,26 +18,29 @@ As a way to be close to communities I participate in events annually to seek new
 
 List of events I attended.:
 
-WO MAKERS CODE - 2016
-Google I / O Extended - 2016
-THE DEVELOPER'S CONFERENCE - 2016 - ANDROID TRAIL
-GDG.SP ANDROID MEETUP 4 YEARS - 2016
-ROADSEC - The largest hacking, security and technology event on the continent - 2016
+<ul>
+ <li>WO MAKERS CODE - 2016</li>
+ <li>Google I / O Extended - 2016</li>
+ <li>THE DEVELOPER'S CONFERENCE - 2016 - ANDROID TRAIL</li>
+ <li>GDG.SP ANDROID MEETUP 4 YEARS - 2016</li>
+ <li>ROADSEC - The largest hacking, security and technology event on the continent - 2016</li>
 
-ROADSEC - The largest hacking, security and technology event on the continent - 2017
-IMPACTA MOBILE DAY - 2017
-ANDROID DEV CONFERENCE iMASTERS - 2017
-THE DEVELOPER'S CONFERENCE - 2017 - MOBILE TRAIL
-THE DEVELOPER'S CONFERENCE - 2017 - ANDROID TRAIL
+ <li>ROADSEC - The largest hacking, security and technology event on the continent - 2017</li>
+ <li>IMPACTA MOBILE DAY - 2017</li>
+ <li>ANDROID DEV CONFERENCE iMASTERS - 2017</li>
+ <li>THE DEVELOPER'S CONFERENCE - 2017 - MOBILE TRAIL</li>
+ <li>THE DEVELOPER'S CONFERENCE - 2017 - ANDROID TRAIL</li>
 
-ROADSEC - The continent's largest hacking, security and technology event - 2018
-SAP FORUM BRASIL - 2018
-THE DEVELOPER'S CONFERENCE - 2018 - ARDUINE TRAIL, MAKERS AND 3D PRINTING
+ <li>ROADSEC - The continent's largest hacking, security and technology event - 2018</li>
+ <li>SAP FORUM BRASIL - 2018</li>
+ <li>THE DEVELOPER'S CONFERENCE - 2018 - ARDUINE TRAIL, MAKERS AND 3D PRINTING</li>
 
-ROADSEC - The continent's largest hacking, security and technology event - 2019
-THE DEVELOPER'S CONFERENCE - 2019 - SMART CITIES TRAIL
-THE DEVELOPER'S CONFERENCE - 2019 - ANDROID TRAIL
-TOTVS UNIVERSE - 2019 
+ <li>ROADSEC - The continent's largest hacking, security and technology event - 2019</li>
+ <li>THE DEVELOPER'S CONFERENCE - 2019 - SMART CITIES TRAIL</li>
+ <li>THE DEVELOPER'S CONFERENCE - 2019 - ANDROID TRAIL</li>
+ <li>TOTVS UNIVERSE - 2019</li> 
+
+ </ul> 
 </div>
  
  
