@@ -16,7 +16,7 @@ Current interests : nodeMCU (ESP8266), arduino, raspberry Pi, IOT, OPENCV, Smart
 Passionate about technology conventions, lectures and Meetups.
 As a way to be close to communities I participate in events annually to seek new experiences and contacts.
 
-<h3>List of events I attended.:<h3>
+<h3>List of events I attended.:</h3>
 
  <ul>
   <li>WO MAKERS CODE - 2016</li>
